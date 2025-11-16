@@ -1,0 +1,11 @@
+/* Enhanced professional styles */
+:root{--brand:#0d6efd;--muted:#6c757d;--bg:#f8fafc}
+body{background:var(--bg);font-family:Inter, 'Segoe UI', Roboto, Arial, sans-serif;color:#222;margin:0}
+.container{max-width:1140px;margin:0 auto;padding:20px}
+.navbar-brand{font-weight:700}
+.card{background:#fff;border-radius:12px;box-shadow:0 6px 18px rgba(15,15,15,0.06);padding:18px}
+.btn-primary{background:var(--brand);border-color:var(--brand)}
+.lead{color:var(--muted)}
+.table-hover tbody tr:hover{background:#f1f7ff}
+.footer{padding:18px;text-align:center;color:var(--muted)}
+.logo{height:40px;width:auto}

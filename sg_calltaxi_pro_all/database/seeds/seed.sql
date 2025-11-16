@@ -1,0 +1,3 @@
+-- Seed file
+-- Admin password hash generated
+-- Hash: $2b$12$b3Q9fbPdNzajLk4qOei5me.Rr.bxiYus2KPP.Hfc9umSYUaYIh75.
